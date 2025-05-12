@@ -1,4 +1,5 @@
-
+push to github
+git remote add origin https://github.com/rajkumar1168/devops.git
 hi first line
 second line 
 third line 
