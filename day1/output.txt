@@ -1,2 +1,3 @@
 first output
 second output
+third tag
